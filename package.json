@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "asheq-frame-print": "^1.0.0",
-    "asheq-npm-test-sub": "^1.0.0",
+    "asheq-npm-test-sub": "^1.0.7",
     "lodash": "^4.17.15"
   }
 }
