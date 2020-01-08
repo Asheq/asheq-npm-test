@@ -1,16 +1,21 @@
 {
   "name": "asheq-npm-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Main module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asheq/asheq-npm-test"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "asheq-frame-print": "^1.0.0",
+    "asheq-npm-test-sub": "^1.0.0",
     "lodash": "^4.17.15"
   }
 }

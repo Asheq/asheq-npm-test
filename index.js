@@ -1,3 +1,4 @@
-const framePrint = require('asheq-frame-print')
+const lodash = require('lodash');
+const asheqNpmTestSub = require('asheq-npm-test-sub');
 
-framePrint('hello')
+console.log('lodash version in asheq-npm-test:', lodash.VERSION);
